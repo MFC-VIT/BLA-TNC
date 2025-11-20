@@ -2,9 +2,9 @@
 </p>
 <br />
 
-# CTS Backend'24
+# BLA-TNC Backend'24
 
-The official Backend of Code To Survive 2024 event.
+The official Backend of BLA-TNC 2024 event.
 
 ## Tech Stack
 
